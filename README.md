@@ -1,0 +1,2 @@
+# LostarkDiscordBot
+LostarkDiscordBot
